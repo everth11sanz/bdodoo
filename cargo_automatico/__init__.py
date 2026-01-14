@@ -1,0 +1,1 @@
+# cargo_automatico init
